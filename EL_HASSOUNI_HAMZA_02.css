@@ -1,0 +1,65 @@
+#all{
+width: 1200px;
+
+margin:0 auto;
+background-color: white;
+position:relative;
+}
+
+body {
+background-color:#DEB887;
+
+}
+
+#header{
+
+height:340px;
+padding:10px 0 0 6px;
+background-image:url(image/jcvd1.jpg);
+background-repeat:no-repeat;
+background-position:top;
+}
+h1 {
+width:290px;
+font-size:20pt;
+color: white;
+background-color:silver;
+padding:10px 10px 10px 10px;
+color: white;
+text-align: left;
+}
+h3{
+	margin:10px;
+	font-size:25px;
+	
+	
+}
+p{
+	
+	margin:10px;
+	font-size:16px;
+	
+}
+#lateral{
+	
+height:770px;
+width: 300px;
+float:right;
+margin: 13px 3px 3px 0;
+	
+}
+#image{
+padding:10px 0 0 6px;
+	
+}
+
+fieldset {
+	
+  border: 1px solid black;
+  color: black;
+  text-align: center;
+  width: 271px;
+}
+legend {
+  padding: 0 10px;
+}
